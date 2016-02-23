@@ -8,20 +8,19 @@ body {
 body::after {
   content: "";
   background: url('https://upload.wikimedia.org/wikipedia/en/8/87/Count_of_Tuscany.png');
-  opacity: 0.4;
-  background-color: #770000 ;
+  opacity: 0.25;
+  background-color: #111111;
   top: 0;
   left: 0;
   bottom: 0;
   right: 0;
-  position: absolute;
-  z-index: -1;
+  position: fixed;
+  z-index: -2;
 }
 
 section {
   position: relative;
   left: 10%;
   padding: 2em;
+  display: block;;
 }
-
-

@@ -1,1 +1,20 @@
 /*You can add a few classes to specific P tags if you want, but try to keep it to a minimum!*/
+.verse1 {
+  color: #000044;
+}
+
+.verse2 {
+  color: #004400;
+}
+
+.refrain1 {
+  color: #880000;
+}
+
+.refrain2 {
+  color: #AA0000;
+}
+
+.r1line1 {
+  color: black;
+}
